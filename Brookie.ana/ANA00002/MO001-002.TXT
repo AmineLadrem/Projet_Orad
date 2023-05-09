@@ -1,0 +1,10 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Facture		NFI		nouveau fichier
+Ordonnance		NFI		nouveau fichier
+DossierMedical		NFI		nouveau fichier
+Patient		NFI		nouveau fichier
+Gere		NWL	Medecin (IDMedecin) et DossierMedical (Suivi)	Nouvelle liaison entre les fichiers Medecin (IDMedecin) et DossierMedical (Suivi)
+Obtient		NWL	Patient (IDPatient) et DossierMedical (IDPatient)	Nouvelle liaison entre les fichiers Patient (IDPatient) et DossierMedical (IDPatient)
+Paye		NWL	Patient (IDPatient) et Facture (IDPatient)	Nouvelle liaison entre les fichiers Patient (IDPatient) et Facture (IDPatient)
+Elabore		NWL	Medecin (IDMedecin) et Ordonnance (IDMedecin)	Nouvelle liaison entre les fichiers Medecin (IDMedecin) et Ordonnance (IDMedecin)
+Etablir		NWL	Medecin (IDMedecin) et Facture (IDMedecin)	Nouvelle liaison entre les fichiers Medecin (IDMedecin) et Facture (IDMedecin)

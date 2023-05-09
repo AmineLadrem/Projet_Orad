@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Medecin		NFI		nouveau fichier
+Contrainte_Medecin_Medecin		NWL	Medecin (IDMedecin) et Medecin (Chef)	Nouvelle liaison entre les fichiers Medecin (IDMedecin) et Medecin (Chef)
+Medecin		FRN		
