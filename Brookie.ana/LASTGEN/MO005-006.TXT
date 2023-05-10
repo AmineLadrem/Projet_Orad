@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+DossierMedical	IDPatient	RUB+		IDPatient est une nouvelle clé
+DossierMedical	IDPatient	RUB-		la rubrique IDPatient est supprimée
+Obtient		NWL	Patient (IDPatient) et DossierMedical (IDPatient)	Nouvelle liaison entre les fichiers Patient (IDPatient) et DossierMedical (IDPatient)
+Obtient		DEL	Patient (IDPatient) et DossierMedical (IDPatient)	Liaison supprimée entre les fichiers Patient (IDPatient) et DossierMedical (IDPatient)
