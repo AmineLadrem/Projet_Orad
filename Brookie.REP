@@ -1,3 +1,6 @@
 ;PCSoft - Hyper File V7.00 - REP V7.00
 ;Do not edit. Please use specific tools.
 ANALYSISGUID=A	;Analysis GUID
+LOCALIZATION_UTF8=A205CBBB995D408AA1F45D3C75A4011C	Medecin	C:\Mes Projets\Projet_ORAD\Exe\Medecin.fic
+LOCALIZATION_UTF8=515132E04B9249D4A5602900298BBF39	Patient	C:\Mes Projets\Projet_ORAD\Exe\Patient.fic
+LOCALIZATION_UTF8=B5D2F6F7BF49429FBDA5A0CDB35873B0	DossierMedical	C:\Mes Projets\Projet_ORAD\Exe\DossierMedical.fic
