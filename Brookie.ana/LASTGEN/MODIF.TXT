@@ -1,3 +1,5 @@
-//MO007-008.TXT ANA00007 TO ANA00008
-Facture		TAR	360	nouvelle taille enregistrement : 360
-Facture	Services	RUB+		Services est une nouvelle rubrique
+//MO008-009.TXT ANA00008 TO ANA00009
+Service		NFI		nouveau fichier
+Facture_Service		NFI		nouveau fichier
+Contrainte_Facture_Service		NWL	Facture (IDFacture) et Facture_Service (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et Facture_Service (IDFacture)
+Contrainte_Service_Facture		NWL	Service (IDService) et Facture_Service (IDService)	Nouvelle liaison entre les fichiers Service (IDService) et Facture_Service (IDService)
