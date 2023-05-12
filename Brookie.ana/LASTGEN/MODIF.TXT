@@ -1,5 +1,5 @@
-//MO008-009.TXT ANA00008 TO ANA00009
-Service		NFI		nouveau fichier
-Facture_Service		NFI		nouveau fichier
+//MO009-010.TXT ANA00009 TO ANA00010
 Contrainte_Facture_Service		NWL	Facture (IDFacture) et Facture_Service (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et Facture_Service (IDFacture)
 Contrainte_Service_Facture		NWL	Service (IDService) et Facture_Service (IDService)	Nouvelle liaison entre les fichiers Service (IDService) et Facture_Service (IDService)
+Contrainte_Facture_Service		DEL	Facture (IDFacture) et Facture_Service (IDFacture)	Liaison supprimée entre les fichiers Facture (IDFacture) et Facture_Service (IDFacture)
+Contrainte_Service_Facture		DEL	Service (IDService) et Facture_Service (IDService)	Liaison supprimée entre les fichiers Service (IDService) et Facture_Service (IDService)
