@@ -1,4 +1,3 @@
-//MO006-007.TXT ANA00006 TO ANA00007
-Medecin		TAR	392	nouvelle taille enregistrement : 392
-Medecin	Chef	RUB+		Chef est une nouvelle clé
-Chef		NWL	Medecin (IDMedecin) et Medecin (Chef)	Nouvelle liaison entre les fichiers Medecin (IDMedecin) et Medecin (Chef)
+//MO007-008.TXT ANA00007 TO ANA00008
+Facture		TAR	360	nouvelle taille enregistrement : 360
+Facture	Services	RUB+		Services est une nouvelle rubrique
