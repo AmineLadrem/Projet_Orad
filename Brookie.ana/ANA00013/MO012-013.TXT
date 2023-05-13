@@ -1,0 +1,2 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Facser		LMN	Contrainte_Facture_Service	

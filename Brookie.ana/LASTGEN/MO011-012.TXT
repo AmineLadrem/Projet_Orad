@@ -1,0 +1,3 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Facture		TAR	354	nouvelle taille enregistrement : 354
+Facture	Montant	CNW	Réel sur 4 octets$Monétaire	la rubrique Montant a pour nouveau type Réel sur 4 octets
